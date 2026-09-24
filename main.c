@@ -2,6 +2,7 @@
 
 int counter(){
 	int x;
+	int z;
 }
 
 int main(){
