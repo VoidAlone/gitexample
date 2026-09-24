@@ -2,7 +2,7 @@
 
 int counter(){
 	int x;
-	int z;
+	int y;
 }
 
 int main(){
